@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://thiepcuoitile.com/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://thiepcuoitile.com/og-cover.jpg</image:loc>
+      <image:title>Thiệp Cưới Tile — In thiệp cưới cao cấp Bảo Lộc</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thiepcuoitile.com/gallery/hero.webp</image:loc>
+      <image:title>Thiệp cưới cao cấp Thiệp Cưới Tile</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thiepcuoitile.com/gallery/inv-1.webp</image:loc>
+      <image:title>Mẫu thiệp cưới ép kim vàng</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thiepcuoitile.com/gallery/inv-2.webp</image:loc>
+      <image:title>Mẫu thiệp cưới dập nổi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thiepcuoitile.com/gallery/inv-3.webp</image:loc>
+      <image:title>Mẫu thiệp cưới giấy mỹ thuật</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thiepcuoitile.com/gallery/inv-4.webp</image:loc>
+      <image:title>Mẫu thiệp cưới cao cấp</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thiepcuoitile.com/gallery/inv-5.webp</image:loc>
+      <image:title>Mẫu thiệp cưới sang trọng</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thiepcuoitile.com/gallery/inv-6.webp</image:loc>
+      <image:title>Mẫu thiệp cưới thiết kế riêng</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://thiepcuoitile.com/form/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

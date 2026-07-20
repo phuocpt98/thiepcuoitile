@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Chặn crawl file rác
+Disallow: /*.DS_Store
+Disallow: /.idea/
+
+Sitemap: https://thiepcuoitile.com/sitemap.xml
