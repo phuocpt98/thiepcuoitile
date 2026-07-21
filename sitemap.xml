@@ -3,16 +3,16 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://thiepcuoitile.com/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://thiepcuoitile.com/og-cover.jpg</image:loc>
-      <image:title>Thiệp Cưới Tile — In thiệp cưới cao cấp Bảo Lộc</image:title>
+      <image:title>Thiệp Cưới Tile — In thiệp cưới Bảo Lộc</image:title>
     </image:image>
     <image:image>
       <image:loc>https://thiepcuoitile.com/gallery/hero.webp</image:loc>
-      <image:title>Thiệp cưới cao cấp Thiệp Cưới Tile</image:title>
+      <image:title>Thiệp cưới sang trọng Thiệp Cưới Tile</image:title>
     </image:image>
     <image:image>
       <image:loc>https://thiepcuoitile.com/gallery/inv-1.webp</image:loc>
@@ -28,7 +28,7 @@
     </image:image>
     <image:image>
       <image:loc>https://thiepcuoitile.com/gallery/inv-4.webp</image:loc>
-      <image:title>Mẫu thiệp cưới cao cấp</image:title>
+      <image:title>Mẫu thiệp cưới sang trọng</image:title>
     </image:image>
     <image:image>
       <image:loc>https://thiepcuoitile.com/gallery/inv-5.webp</image:loc>
